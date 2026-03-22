@@ -1,7 +1,11 @@
+import HeroMain from "../components/HeroMain";
+import HeroStats from "../components/HeroStats";
+
 const Home = () => {
     return (
         <div>
-            <h1>HOME</h1>
+            <HeroStats />
+            <HeroMain />
         </div>
     );
 };
