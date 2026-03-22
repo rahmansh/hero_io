@@ -2,8 +2,8 @@ const HeroStats = () => {
     return (
         <div className="bg-linear-to-t from-sky-500 to-indigo-500 text-white py-10">
             <div className="max-w-7xl mx-auto w-full">
-                <h1 className="font-bold text-3xl text-center mb-5">Trusted By Millions, Build For You</h1>
-                <div className="grid grid-cols-1 md:grid-cols-3 justify-items-center">
+                <h1 className="font-bold text-3xl text-center mb-5">Trusted By Millions, Built For You</h1>
+                <div className="grid grid-cols-1 gap-5 md:gap-0 md:grid-cols-3 justify-items-center">
                     <div className="text-center">
                         <p className="text-sm font-extralight">Total Downloads</p>
                         <h2 className="text-4xl font-bold my-3">29.5M</h2>
