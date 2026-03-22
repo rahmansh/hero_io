@@ -1,0 +1,272 @@
+[
+  {
+    "id": "1",
+    "title": "Spotify",
+    "company": "Spotify AB",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/168px-Spotify_logo_without_text.svg.png",
+    "description": "Spotify is a digital music streaming service that gives you access to millions of songs, podcasts, and videos from artists all over the world. Discover new music, create playlists, and enjoy your favorite tracks anywhere, anytime.",
+    "size": "58 MB",
+    "downloads": 9800000,
+    "rating": 4.7,
+    "reviews": 124500,
+    "ratingBreakdown": {
+      "5": 85000,
+      "4": 25000,
+      "3": 9000,
+      "2": 3500,
+      "1": 2000
+    }
+  },
+  {
+    "id": "2",
+    "title": "Notion",
+    "company": "Notion Labs Inc.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png",
+    "description": "Notion is an all-in-one workspace where you can write, plan, collaborate, and organize your work. It combines notes, tasks, databases, and wikis into a single, highly customizable tool for teams and individuals.",
+    "size": "42 MB",
+    "downloads": 7200000,
+    "rating": 4.6,
+    "reviews": 98200,
+    "ratingBreakdown": {
+      "5": 65000,
+      "4": 20000,
+      "3": 8000,
+      "2": 3200,
+      "1": 2000
+    }
+  },
+  {
+    "id": "3",
+    "title": "Duolingo",
+    "company": "Duolingo Inc.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Duolingo_logo.svg/640px-Duolingo_logo.svg.png",
+    "description": "Duolingo is the world's most popular language-learning platform. With fun, bite-sized lessons, you can learn over 40 languages for free. Gamified exercises make practicing feel like a game, keeping you motivated every day.",
+    "size": "35 MB",
+    "downloads": 8500000,
+    "rating": 4.8,
+    "reviews": 210000,
+    "ratingBreakdown": {
+      "5": 160000,
+      "4": 35000,
+      "3": 9000,
+      "2": 4000,
+      "1": 2000
+    }
+  },
+  {
+    "id": "4",
+    "title": "Figma",
+    "company": "Figma Inc.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg",
+    "description": "Figma is a powerful, browser-based UI/UX design tool used by designers and developers worldwide. It enables real-time collaboration, prototyping, and design system management, making team workflows seamless and efficient.",
+    "size": "67 MB",
+    "downloads": 5100000,
+    "rating": 4.9,
+    "reviews": 87600,
+    "ratingBreakdown": {
+      "5": 72000,
+      "4": 10000,
+      "3": 3500,
+      "2": 1200,
+      "1": 900
+    }
+  },
+  {
+    "id": "5",
+    "title": "Slack",
+    "company": "Salesforce Inc.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/200px-Slack_icon_2019.svg.png",
+    "description": "Slack is a business communication platform that brings your team together. With channels, direct messages, and integrations with hundreds of tools, Slack streamlines collaboration and keeps work organized in one place.",
+    "size": "78 MB",
+    "downloads": 6300000,
+    "rating": 4.5,
+    "reviews": 74300,
+    "ratingBreakdown": {
+      "5": 48000,
+      "4": 16000,
+      "3": 6000,
+      "2": 2800,
+      "1": 1500
+    }
+  },
+  {
+    "id": "6",
+    "title": "Canva",
+    "company": "Canva Pty Ltd",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Canva_Logo.svg/250px-Canva_Logo.svg.png",
+    "description": "Canva is an intuitive graphic design platform that allows anyone to create stunning visuals. From social media posts to presentations, flyers, and logos — Canva's drag-and-drop editor makes professional design accessible to everyone.",
+    "size": "54 MB",
+    "downloads": 7800000,
+    "rating": 4.7,
+    "reviews": 153000,
+    "ratingBreakdown": {
+      "5": 110000,
+      "4": 28000,
+      "3": 9500,
+      "2": 3500,
+      "1": 2000
+    }
+  },
+  {
+    "id": "7",
+    "title": "Trello",
+    "company": "Atlassian",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Trello_logo.svg/320px-Trello_logo.svg.png",
+    "description": "Trello is a visual project management tool that uses boards, lists, and cards to help teams organize tasks and workflows. It's flexible, intuitive, and integrates with your favorite apps to keep everything in sync.",
+    "size": "29 MB",
+    "downloads": 4400000,
+    "rating": 4.4,
+    "reviews": 62100,
+    "ratingBreakdown": {
+      "5": 38000,
+      "4": 14000,
+      "3": 6500,
+      "2": 2300,
+      "1": 1300
+    }
+  },
+  {
+    "id": "8",
+    "title": "Discord",
+    "company": "Discord Inc.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Discord_logo.svg/200px-Discord_logo.svg.png",
+    "description": "Discord is a voice, video, and text communication platform originally built for gamers but now used by communities of all kinds. Create servers, join channels, and stay connected with friends and communities worldwide.",
+    "size": "85 MB",
+    "downloads": 8900000,
+    "rating": 4.6,
+    "reviews": 198000,
+    "ratingBreakdown": {
+      "5": 140000,
+      "4": 38000,
+      "3": 12000,
+      "2": 5000,
+      "1": 3000
+    }
+  },
+  {
+    "id": "9",
+    "title": "Todoist",
+    "company": "Doist Inc.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Todoist_logo.png/320px-Todoist_logo.png",
+    "description": "Todoist is a powerful task manager and to-do list app that helps you organize your work and life. With natural language input, recurring tasks, priority levels, and productivity tracking, staying on top of your goals has never been easier.",
+    "size": "22 MB",
+    "downloads": 3200000,
+    "rating": 4.5,
+    "reviews": 48700,
+    "ratingBreakdown": {
+      "5": 30000,
+      "4": 11000,
+      "3": 5000,
+      "2": 1700,
+      "1": 1000
+    }
+  },
+  {
+    "id": "10",
+    "title": "Zoom",
+    "company": "Zoom Video Communications",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Zoom_Communications_Logo.svg/320px-Zoom_Communications_Logo.svg.png",
+    "description": "Zoom is the world's leading video conferencing platform for meetings, webinars, and collaboration. With HD video, screen sharing, virtual backgrounds, and breakout rooms, Zoom makes remote work and learning feel connected.",
+    "size": "91 MB",
+    "downloads": 9200000,
+    "rating": 4.3,
+    "reviews": 175000,
+    "ratingBreakdown": {
+      "5": 100000,
+      "4": 42000,
+      "3": 20000,
+      "2": 8000,
+      "1": 5000
+    }
+  },
+  {
+    "id": "11",
+    "title": "Headspace",
+    "company": "Headspace Inc.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Headspace_Logo.svg/320px-Headspace_Logo.svg.png",
+    "description": "Headspace is a mindfulness and meditation app designed to reduce stress, improve sleep, and boost focus. Guided sessions range from 3 to 20 minutes, making it easy to build a daily meditation habit no matter your schedule.",
+    "size": "48 MB",
+    "downloads": 4700000,
+    "rating": 4.8,
+    "reviews": 93400,
+    "ratingBreakdown": {
+      "5": 75000,
+      "4": 13000,
+      "3": 3500,
+      "2": 1400,
+      "1": 500
+    }
+  },
+  {
+    "id": "12",
+    "title": "Grammarly",
+    "company": "Grammarly Inc.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Grammarly-icon.png/240px-Grammarly-icon.png",
+    "description": "Grammarly is an AI-powered writing assistant that helps you write clearly and effectively. It checks grammar, spelling, punctuation, tone, and style in real time, making every email, essay, and message more professional and polished.",
+    "size": "38 MB",
+    "downloads": 6800000,
+    "rating": 4.6,
+    "reviews": 112000,
+    "ratingBreakdown": {
+      "5": 78000,
+      "4": 22000,
+      "3": 7500,
+      "2": 3000,
+      "1": 1500
+    }
+  },
+  {
+    "id": "13",
+    "title": "Evernote",
+    "company": "Evernote Corporation",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2021_Evernote_logo.svg/320px-2021_Evernote_logo.svg.png",
+    "description": "Evernote is a note-taking and organization app that helps you capture ideas, create to-do lists, and save web content. With powerful search, notebooks, and cross-device sync, your notes are always where you need them.",
+    "size": "44 MB",
+    "downloads": 3900000,
+    "rating": 4.2,
+    "reviews": 57800,
+    "ratingBreakdown": {
+      "5": 28000,
+      "4": 16000,
+      "3": 8500,
+      "2": 3300,
+      "1": 2000
+    }
+  },
+  {
+    "id": "14",
+    "title": "Adobe Lightroom",
+    "company": "Adobe Inc.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/200px-Adobe_Photoshop_Lightroom_CC_logo.svg.png",
+    "description": "Adobe Lightroom is a professional photo editing and organization app. With powerful tools for color correction, retouching, and batch editing, photographers of all levels can transform their images with precision and creativity.",
+    "size": "112 MB",
+    "downloads": 5500000,
+    "rating": 4.7,
+    "reviews": 88900,
+    "ratingBreakdown": {
+      "5": 64000,
+      "4": 17000,
+      "3": 5500,
+      "2": 1700,
+      "1": 700
+    }
+  },
+  {
+    "id": "15",
+    "title": "LinkedIn",
+    "company": "Microsoft Corporation",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png",
+    "description": "LinkedIn is the world's largest professional networking platform. Connect with colleagues, discover job opportunities, share your achievements, and grow your career by engaging with a global community of professionals.",
+    "size": "76 MB",
+    "downloads": 8100000,
+    "rating": 4.4,
+    "reviews": 145000,
+    "ratingBreakdown": {
+      "5": 90000,
+      "4": 33000,
+      "3": 13000,
+      "2": 5500,
+      "1": 3500
+    }
+  }
+]
