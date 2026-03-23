@@ -1,7 +1,7 @@
 import rating from '../assets/icon-ratings.png'
 import download from '../assets/icon-downloads.png';
 import { Link } from 'react-router';
-import formatDownloads from '../utils/formatNumber';
+import formatNumber from '../utils/formatNumber';
 
 
 const AppCard = ({ app }) => {
@@ -19,7 +19,7 @@ const AppCard = ({ app }) => {
                     <div className='py-3 flex justify-between'>
                         <div className='flex items-center gap-1 bg-[#e3f2ed] text-[#00D390] rounded-md px-1'>
                             <img className='w-4' src={download} alt="" />
-                            <span className=''>{formatDownloads(app.downloads)}</span>
+                            <span className=''>{formatNumber(app.downloads)}</span>
                         </div>
                         <div className='flex items-center gap-1 bg-[#f3e1ce] rounded-md px-1'>
                             <img className='w-4' src={rating} alt="" />
