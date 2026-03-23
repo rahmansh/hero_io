@@ -1,4 +1,4 @@
-import { NavLink } from "react-router";
+import { Link, NavLink } from "react-router";
 import logo from "../assets/logo.png"
 import { FaGithub } from "react-icons/fa";
 
@@ -19,7 +19,7 @@ const Navbar = () => {
                             <li><NavLink to="/my-installations">Installation</NavLink></li>
                         </ul>
                     </div>
-                    <a className="btn btn-ghost text-xl"><img className="h-8" src={logo} alt="Hero IO" /><span className="text-[#804fe8]">HERO.IO</span></a>
+                    <Link to="/" className="btn btn-ghost text-xl"><img className="h-8" src={logo} alt="Hero IO" /><span className="text-[#804fe8]">HERO.IO</span></Link>
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal px-1">
