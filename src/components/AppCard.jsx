@@ -3,7 +3,6 @@ import download from '../assets/icon-downloads.png';
 
 
 const AppCard = ({ app }) => {
-    console.log(app)
     const formatDownloads = num => (num / 1000000).toFixed(1) + 'M';
     return (
         <div className="card bg-base-100 w-full shadow-sm">

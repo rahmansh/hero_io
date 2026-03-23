@@ -1,3 +1,4 @@
+import { Link } from "react-router";
 import AppCard from "./AppCard";
 
 const TrendingApps = ({ apps }) => {
@@ -13,7 +14,7 @@ const TrendingApps = ({ apps }) => {
                 }
             </div>
             <div className="text-center mt-6">
-                <button className="btn px-8 bg-linear-to-b from-[#6023ef] to-[#8c68f8] text-white">Show All</button>
+                <Link to="/all-apps" className="btn px-8 bg-linear-to-b from-[#6023ef] to-[#8c68f8] text-white">Show All</Link>
             </div>
         </div>
     );
